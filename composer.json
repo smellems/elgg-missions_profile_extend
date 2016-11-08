@@ -1,5 +1,5 @@
 {
-    "name": "smellems/missions_extended_profile",
+    "name": "smellems/missions_profile_extend",
     "type": "elgg-plugin",
     "require": {
         "composer/installers": ">=1.0.8"
